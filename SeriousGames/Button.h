@@ -1,10 +1,10 @@
 #pragma once
 
 //glew
-//#include <GL/glew.h>
+#include <glew.h>
 
 //GLFW
-//#include <GLFW\glfw3.h>
+#include <glfw3.h>
 
 //std library
 #include <string>

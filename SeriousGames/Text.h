@@ -2,7 +2,7 @@
 #include "Shader.h"
 #include <iostream>
 #include "ft2build.h"
-#include "glm/glm.hpp"
+#include "glm.hpp"
 #include <string>
 #include <map>
 #include "Input.h"

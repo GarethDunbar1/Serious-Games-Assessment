@@ -1,5 +1,6 @@
 #include "Menu.h"
 //include header files for menu states e.g. Addition, Subtraction etc.
+#include "MainMenu.h"
 
 Menu::Menu()
 {
